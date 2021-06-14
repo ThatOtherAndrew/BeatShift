@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/metronomelow.ogg-d15dc6c177b841daa02a782119e9c1b2.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/metronomelow.ogg"
+dest_files=[ "res://.import/metronomelow.ogg-d15dc6c177b841daa02a782119e9c1b2.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

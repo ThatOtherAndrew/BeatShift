@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/metronomehi.ogg-357ea77c63c77b17c179c7a0c54893a4.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/metronomehi.ogg"
+dest_files=[ "res://.import/metronomehi.ogg-357ea77c63c77b17c179c7a0c54893a4.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
